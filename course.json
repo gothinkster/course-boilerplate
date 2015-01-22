@@ -1,9 +1,14 @@
 {
-  "title": "<course title>",
-  "description": "<course description>",
-  "url": "<unique course url slug>",
+  "title": "Course Boilerplate",
+  "description": "This is a boilerplate repository for building courses on thinkster.io",
+  "url": "boilerplate-guide-to-doing-awesome-things",
 
   "author": {
-    "github": "<Github handle>"
-  }
+    "github": "gothinkster"
+  },
+
+  "contributors": [
+    { "github": "emgeee" },
+    { "github": "ericsimons"}
+  ]
 }
