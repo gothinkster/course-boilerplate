@@ -1,0 +1,9 @@
+{
+  "title": "<course title>",
+  "description": "<course description>",
+  "url": "<unique course url slug>",
+
+  "author": {
+    "github": "<Github handle>"
+  }
+}
